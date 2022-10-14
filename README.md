@@ -202,3 +202,5 @@ Ternary(condition bool, trueVal, falseVal interface{}) interface{}
 
 ## LICENSE
 PHP2Go source code is licensed under the [MIT](https://github.com/syyongx/php2go/blob/master/LICENSE) Licence.
+
+test
